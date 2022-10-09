@@ -1,0 +1,80 @@
+/* pseudoclass elements  babes download the folders from ays github acc tonight. */
+
+
+body{
+    padding: 10vh;
+    background-color: white;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: rgb(29, 252, 4);
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: white;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.nav-bar-left-side h3{
+    background-color: rgb(29, 252, 4);
+    color: white;
+    padding: 5px;
+}    
+.nav-bar-left-side{
+    /* background-color: green;
+    color: white;
+    height: 50px; */
+    margin-left: 10vh;
+    margin-right: 10vh;
+}
+.nav-bar-right-side{
+    margin-right: 10vh;
+    margin-left: 60vh;
+    margin-bottom: 0px;
+    padding-bottom: 0px;    
+}
+.nav-bar-right-side a{
+    padding-left: 5vh;
+}
+.AY{
+    display: flex;
+    flex-direction: row;
+}
+.AY li{
+    color: rgb(218, 111, 5);
+    list-style: none;
+    padding-left: 8px;
+}
+.main-content {
+    display: flex;
+    flex-direction: row;    
+}
+.main-content p{
+    line-height: 35px;
+}
+.left-side{
+    padding-right: 30px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding-bottom: 15px;    
+}
+.left-side{
+    line-height: 50px;
+}
+img{
+    padding: 30px;
+    height: 450px;
+}
+/* .empty{
+    background-color: black;
+    height: 5px;
+    padding: 0px;
+} */
